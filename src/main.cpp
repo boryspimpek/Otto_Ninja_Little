@@ -1,7 +1,3 @@
-/*Przed wgraniem kodu za pomoca arduino ide nalezy zmienic wersje zainstalowanej plytki (board manager) na 2.0.17*/
-
-
-
 #include <ESP32Servo.h>
 #include <PS4Controller.h>
 
